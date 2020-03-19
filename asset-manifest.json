@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Sakib-Hasan12/covid-19/static/css/main.17ab80db.chunk.css",
+    "main.js": "/Sakib-Hasan12/covid-19/static/js/main.044cad24.chunk.js",
+    "main.js.map": "/Sakib-Hasan12/covid-19/static/js/main.044cad24.chunk.js.map",
+    "runtime-main.js": "/Sakib-Hasan12/covid-19/static/js/runtime-main.61b06e3f.js",
+    "runtime-main.js.map": "/Sakib-Hasan12/covid-19/static/js/runtime-main.61b06e3f.js.map",
+    "static/js/2.58885a37.chunk.js": "/Sakib-Hasan12/covid-19/static/js/2.58885a37.chunk.js",
+    "static/js/2.58885a37.chunk.js.map": "/Sakib-Hasan12/covid-19/static/js/2.58885a37.chunk.js.map",
+    "index.html": "/Sakib-Hasan12/covid-19/index.html",
+    "precache-manifest.d61a5d482423b1f3f29a4caf2f14cc6f.js": "/Sakib-Hasan12/covid-19/precache-manifest.d61a5d482423b1f3f29a4caf2f14cc6f.js",
+    "service-worker.js": "/Sakib-Hasan12/covid-19/service-worker.js",
+    "static/css/main.17ab80db.chunk.css.map": "/Sakib-Hasan12/covid-19/static/css/main.17ab80db.chunk.css.map",
+    "static/js/2.58885a37.chunk.js.LICENSE.txt": "/Sakib-Hasan12/covid-19/static/js/2.58885a37.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.61b06e3f.js",
+    "static/js/2.58885a37.chunk.js",
+    "static/css/main.17ab80db.chunk.css",
+    "static/js/main.044cad24.chunk.js"
+  ]
+}
