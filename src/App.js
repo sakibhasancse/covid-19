@@ -73,7 +73,7 @@ export default class App extends React.Component{
         <div >
        
             <div className="shadow-sm p-3 mb-5 bg-white rounded">
-                <h2 className="text-center font-weight-bold">Covid-19 live update</h2>
+                <h2 className="text-center font-weight-bold">Covid-19 live</h2>
             </div>
             <div className="container mx-auto px-4">
             <div className="row">
@@ -130,11 +130,12 @@ export default class App extends React.Component{
 
                         <h2 className="td">{this.state.deaths}</h2>
                     </div>
-                    <div >
-                        <h2 className="profile ">Created by <a href="https://www.facebook.com/SakibHasan99">Sakib Hasan😍</a></h2>
-                    </div>
+                  
 
                 </div>
+                <div className="profile_d text-center shadow-lg p-3 mb-5 bg-white rounded">
+                        <h2 className="profile  ">Created by <a href="https://www.facebook.com/SakibHasan99">Sakib Hasan😍</a></h2>
+                    </div>
             </div>
         </div>
         
