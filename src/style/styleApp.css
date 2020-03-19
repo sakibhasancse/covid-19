@@ -1,0 +1,50 @@
+body {
+    font-family:none!important;
+    line-height: 1.15!important;
+ }
+.box2{
+    border-radius: .5rem;
+    border-top:4px solid  rgb(28, 218, 167); 
+}
+.tc{
+    color:rgb(116, 114, 212) ;
+
+} 
+.tr{
+    color:rgb(28, 218, 167) ;
+
+} 
+.td {
+    color: rgb(245, 107, 107);
+
+} 
+   
+   
+
+.box3{
+    border-radius: .5rem;
+    border-top:4px solid  rgb(245, 107, 107); 
+}
+.box1{
+    border-radius: .5rem;
+    border-top:4px solid rgb(116, 114, 212); 
+}
+.profile{
+    font-size: small;
+    
+  
+}
+@media screen and (min-width:768px){
+    .box1{
+        margin-left: 0rem;
+        margin-right: 4.5rem;
+    }
+    .box2{
+        margin-left: 4rem;
+        margin-right: 4rem;
+    }
+    .box3{
+        margin-left: 4.5rem;
+        margin-right: 0rem;
+    }
+}
